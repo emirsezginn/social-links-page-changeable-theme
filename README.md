@@ -13,7 +13,7 @@ This project allows you to showcase your social media links in a clean and moder
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/username/social-links-page.git
+   git clone https://github.com/emirsezginn/social-links-page-changeable-theme
    ```
 
 2. Open `index.html` and add your social media links.
