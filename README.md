@@ -46,6 +46,4 @@ Change these values to create your own custom theme.
 2. Update colors in `style.css`.
 3. Open the page in a browser to see the result.
 
-## License
 
-This project is licensed under the MIT License.
