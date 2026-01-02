@@ -13,7 +13,8 @@
                 'github': 'https://github.com/emirsezginn',
                 'upwork': 'https://www.upwork.com/freelancers/~0162e4a5a43c87459f',
                 'bionluk': 'https://bionluk.com/emirsezgn',
-                'portfolio': 'https://emirsezgin.netlify.app/'
+                'portfolio': 'https://emirsezgin.netlify.app/',
+                'logbook': 'https://logbookapplication.netlify.app/'
 
             };
             
